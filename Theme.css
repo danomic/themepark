@@ -141,6 +141,7 @@ TABLE OF CONTENTS
 /*1. Background and Sizing*/
 /*1.a. Main Background*/
 body::before {
+	background: pink;
 	position: absolute;
 	content: '';
 	height: 100%;
